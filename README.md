@@ -1,4 +1,3 @@
-<br>
 <table align="center">
     <tr>
         <td align="center" width="96" height="120">
