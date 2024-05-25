@@ -1,7 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-correia-7aa4a3238/)  
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victoriacorr0310@gmail.com)  
-
-## Favorite Technologies
 <br>
 <table align="center">
     <tr>
