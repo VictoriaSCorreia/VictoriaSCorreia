@@ -55,8 +55,8 @@
         <br>C++
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-        <br>GitHub
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
+        <br>Docker
         </td>
         <td align="center" width="96">
             <a href="https://www.raspberrypi.com/">
