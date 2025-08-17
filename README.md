@@ -66,3 +66,9 @@
         </td>   
     </tr>
 </table>
+<div align="center">
+    <h3>Visit My Website</h3>
+    <a href="https://victoriacorreia.netlify.app/">
+        <img src="./website_logo.png" width="39" height="39" style="border-radius:50%;" />
+    </a>
+</div>
