@@ -94,11 +94,11 @@
             <a href="https://go.dev/">
             <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="icon" width="60" height="60" />
             </a>
-        <br>GoLang
+        <br>Go
         </td>
         <td align="center" width="96">
             <a href="https://react.dev/">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" />
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="62" height="62" />
             </a>
         <br>React
         </td>   
