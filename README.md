@@ -89,7 +89,6 @@
             </a>
         <br>Flask
         </td>
-        </td>
         <td align="center" width="96">
             <a href="https://www.raspberrypi.com/">
             <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="62" height="62" />
@@ -102,7 +101,6 @@
             </a>
         <br>Go
         </td>
-
     </tr>
 </table>
 
