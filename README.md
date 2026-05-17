@@ -65,17 +65,29 @@
         </td>
     </tr>
         <tr>
-        <td align="center" width="96" height="120">
-            <a href="https://flask.palletsprojects.com/en/stable/">
-            <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="icon" width="60" height="60" />
+        <td align="center" width="96">
+            <a href="https://www.typescriptlang.org/">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
             </a>
-        <br>Flask
+        <br>TypeScript
         </td>
+        <td align="center" width="96">
+            <a href="https://react.dev/">
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="62" height="62" />
+            </a>
+        <br>React
+        </td> 
         <td align="center" width="96">
             <a href="https://redis.io/">
             <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="icon" width="58" height="58" />
             </a>
         <br>Redis
+        </td>
+        <td align="center" width="96" height="120">
+            <a href="https://flask.palletsprojects.com/en/stable/">
+            <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="icon" width="60" height="60" />
+            </a>
+        <br>Flask
         </td>
         </td>
         <td align="center" width="96">
@@ -85,23 +97,12 @@
         <br>Raspberry
         </td> 
         <td align="center" width="96">
-            <a href="https://www.typescriptlang.org/">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
-            </a>
-        <br>TypeScript
-        </td>
-        <td align="center" width="96">
             <a href="https://go.dev/">
             <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="icon" width="60" height="60" />
             </a>
         <br>Go
         </td>
-        <td align="center" width="96">
-            <a href="https://react.dev/">
-            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="62" height="62" />
-            </a>
-        <br>React
-        </td>   
+
     </tr>
 </table>
 
