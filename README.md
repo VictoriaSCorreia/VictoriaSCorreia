@@ -13,20 +13,21 @@
         <br>Spring
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
-        <br>Rest
+            <a href="https://www.postgresql.org/">
+            <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="icon" width="55" height="55" />
+            </a>
+        <br>PostgreSQL
         </td>
         <td align="center" width="96">
-            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="icon" width="60" height="60" />
-        <br>HTML
-        </td>
-        <td align="center" width="96">
-            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="icon" width="59" height="59" />
-        <br>CSS
+            <a href="https://go.dev/">
+            <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="icon" width="60" height="60" />
+            </a>
+        <br>Go
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
         <br>Docker  
+        </td>
     </tr>
     <tr>
         <td align="center" width="96" height="120">
@@ -57,50 +58,38 @@
             </a>
         <br>Git
         </td>
-        <td align="center" width="96">
-            <a href="https://www.postgresql.org/">
-            <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="icon" width="55" height="55" />
-            </a>
-        <br>PostgreSQL
-        </td>
     </tr>
         <tr>
-        <td align="center" width="96">
+        <td align="center" width="76">
             <a href="https://www.typescriptlang.org/">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
             </a>
         <br>TypeScript
         </td>
-        <td align="center" width="96">
+        <td align="center" width="76">
             <a href="https://react.dev/">
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="icon" width="62" height="62" />
             </a>
         <br>React
         </td> 
-        <td align="center" width="96">
+        <td align="center" width="76">
             <a href="https://redis.io/">
             <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="icon" width="58" height="58" />
             </a>
         <br>Redis
         </td>
-        <td align="center" width="96" height="120">
+        <td align="center" width="76">
             <a href="https://flask.palletsprojects.com/en/stable/">
             <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="icon" width="60" height="60" />
             </a>
         <br>Flask
         </td>
-        <td align="center" width="96">
+        <td align="center" width="76">
             <a href="https://www.raspberrypi.com/">
             <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="62" height="62" />
             </a>
         <br>Raspberry
         </td> 
-        <td align="center" width="96">
-            <a href="https://go.dev/">
-            <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="icon" width="60" height="60" />
-            </a>
-        <br>Go
-        </td>
     </tr>
 </table>
 
