@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2b2f36"/><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 20 100 60" id="cpp-icon" x="10" y="10" width="44" height="44">
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2b2f36"/><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 20 100 60" id="cpp-icon" x="3" y="3" width="58" height="58">
   <defs>
     <style>
       @keyframes plus-1-rotate {
@@ -36,12 +36,12 @@
         }
       }
       #cpp-icon {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        width: 100px;
-        height: 100px;
+        
+        
+        
+        
+        
+        
       }
       .cpp-arc {
         stroke: #6195CB; 
