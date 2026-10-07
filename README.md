@@ -12,18 +12,21 @@
   <a href="https://www.postgresql.org/"><img src="./icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" /></a>
   <a href="https://go.dev/"><img src="./icons/go.svg" alt="Go" title="Go" /></a>
   <img src="./icons/docker.svg" alt="Docker" title="Docker" />
+  <a href="https://supabase.com/"><img src="./icons/supabase.svg" alt="Supabase" title="Supabase" /></a>
   <br>
   <a href="https://www.python.org"><img src="./icons/python.svg" alt="Python" title="Python" /></a>
   <a href="https://www.djangoproject.com/"><img src="./icons/django.svg" alt="Django" title="Django" /></a>
   <a href="https://www.mysql.com/"><img src="./icons/mysql.svg" alt="MySQL" title="MySQL" /></a>
   <img src="./icons/cpp.svg" alt="C++" title="C++" />
   <a href="https://git-scm.com/"><img src="./icons/git.svg" alt="Git" title="Git" /></a>
+  <a href="https://nodejs.org/"><img src="./icons/nodejs.svg" alt="Node.js" title="Node.js" /></a>
   <br>
   <a href="https://www.typescriptlang.org/"><img src="./icons/typescript.svg" alt="TypeScript" title="TypeScript" /></a>
   <a href="https://react.dev/"><img src="./icons/react.svg" alt="React" title="React" /></a>
   <a href="https://redis.io/"><img src="./icons/redis.svg" alt="Redis" title="Redis" /></a>
   <a href="https://flask.palletsprojects.com/en/stable/"><img src="./icons/flask.svg" alt="Flask" title="Flask" /></a>
   <a href="https://www.raspberrypi.com/"><img src="./icons/raspberry.svg" alt="Raspberry Pi" title="Raspberry Pi" /></a>
+  <a href="https://nginx.org/"><img src="./icons/nginx.svg" alt="Nginx" title="Nginx" /></a>
 </p>
 
 </br>
