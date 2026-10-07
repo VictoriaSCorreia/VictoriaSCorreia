@@ -16,6 +16,11 @@ ICONS = {
     "docker":     "https://techstack-generator.vercel.app/docker-icon.svg",
     "git":        "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg",
     "raspberry":  "https://techstack-generator.vercel.app/raspberrypi-icon.svg",
+    "nodejs":     "https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg",
+    "tailwind":   "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
+    "nginx":      "https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg",
+    "supabase":   "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg",
+    "json":       "https://www.vectorlogo.zone/logos/json/json-icon.svg",
 }
 
 LARGURA = ALTURA = 76                  # tamanho do arquivo (quadrado de 64 + espaço em volta = 12px entre ícones)
